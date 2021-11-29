@@ -1,0 +1,1286 @@
+[
+{
+  "name":"[B"}
+,
+{
+  "name":"[Ljava.lang.Object;"}
+,
+{
+  "name":"[Ljava.lang.String;"}
+,
+{
+  "name":"boolean",
+  "allDeclaredFields":true}
+,
+{
+  "name":"com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"com.sun.org.apache.xerces.internal.jaxp.SAXParserFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"com.sun.org.apache.xerces.internal.jaxp.datatype.DatatypeFactoryImpl",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"groovy.grape.GrabAnnotationTransformation",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"groovy.io.FileType"}
+,
+{
+  "name":"groovy.lang.Binding"}
+,
+{
+  "name":"groovy.lang.Buildable",
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"groovy.lang.Closure",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"groovy.lang.Closure$1",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true}
+,
+{
+  "name":"groovy.lang.EmptyRange"}
+,
+{
+  "name":"groovy.lang.ExpandoMetaClass",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true}
+,
+{
+  "name":"groovy.lang.GString",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"groovy.lang.GroovyCallable",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"groovy.lang.GroovyClassLoader",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"groovy.lang.GroovyCodeSource",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":["java.lang.String","java.lang.String","java.lang.String"] },
+    {"name":"getCodeSource","parameterTypes":[] }
+  ]}
+,
+{
+  "name":"groovy.lang.GroovyCodeSource$getName",
+  "methods":[{"name":"<init>","parameterTypes":["org.codehaus.groovy.runtime.callsite.CallSite","groovy.lang.MetaClassImpl","groovy.lang.MetaMethod","java.lang.Class[]","java.lang.reflect.Constructor"] }]}
+,
+{
+  "name":"groovy.lang.GroovyObject",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"groovy.lang.GroovyObjectSupport",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"groovy.lang.GroovyResourceLoader",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"groovy.lang.IntRange"}
+,
+{
+  "name":"groovy.lang.ListWithDefault"}
+,
+{
+  "name":"groovy.lang.MetaClass",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"groovy.lang.MetaClassImpl",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"groovy.lang.MetaMethod",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"groovy.lang.MetaObjectProtocol",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"groovy.lang.MetaProperty",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"groovy.lang.MutableMetaClass",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"groovy.lang.ObjectRange"}
+,
+{
+  "name":"groovy.lang.Range",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"groovy.lang.Reference",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true}
+,
+{
+  "name":"groovy.lang.Script",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true}
+,
+{
+  "name":"groovy.lang.SpreadMap"}
+,
+{
+  "name":"groovy.lang.Writable",
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"groovyjarjarantlr.CommonToken"}
+,
+{
+  "name":"groovyjarjarasm.asm.Opcodes",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.awt.Color"}
+,
+{
+  "name":"java.awt.Font"}
+,
+{
+  "name":"java.awt.Image"}
+,
+{
+  "name":"java.awt.font.TextAttribute"}
+,
+{
+  "name":"java.beans.PropertyVetoException"}
+,
+{
+  "name":"java.io.BufferedInputStream"}
+,
+{
+  "name":"java.io.BufferedOutputStream"}
+,
+{
+  "name":"java.io.BufferedReader"}
+,
+{
+  "name":"java.io.BufferedWriter"}
+,
+{
+  "name":"java.io.Closeable",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.io.DataInput",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.io.DataInputStream"}
+,
+{
+  "name":"java.io.DataOutput",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.io.DataOutputStream"}
+,
+{
+  "name":"java.io.Externalizable"}
+,
+{
+  "name":"java.io.File",
+  "allDeclaredFields":true}
+,
+{
+  "name":"java.io.FilePermission"}
+,
+{
+  "name":"java.io.Flushable",
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.io.InputStream",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.io.ObjectInput",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.io.ObjectInputStream"}
+,
+{
+  "name":"java.io.ObjectOutput",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.io.ObjectOutputStream"}
+,
+{
+  "name":"java.io.ObjectStreamConstants",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.io.OutputStream",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.io.PrintStream"}
+,
+{
+  "name":"java.io.PrintWriter"}
+,
+{
+  "name":"java.io.Reader",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.io.Serializable",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.io.Writer",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.lang.AbstractStringBuilder",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.lang.Appendable",
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.AutoCloseable",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.Boolean"}
+,
+{
+  "name":"java.lang.Byte"}
+,
+{
+  "name":"java.lang.CharSequence",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.Character"}
+,
+{
+  "name":"java.lang.Class"}
+,
+{
+  "name":"java.lang.ClassLoader",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "methods":[{"name":"registerAsParallelCapable","parameterTypes":[] }]}
+,
+{
+  "name":"java.lang.Cloneable",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.Comparable",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.Double"}
+,
+{
+  "name":"java.lang.Enum",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.Float"}
+,
+{
+  "name":"java.lang.Integer"}
+,
+{
+  "name":"java.lang.Iterable",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.Long"}
+,
+{
+  "name":"java.lang.Number"}
+,
+{
+  "name":"java.lang.Object",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.Process",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.lang.Readable",
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.Runnable",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.RuntimePermission"}
+,
+{
+  "name":"java.lang.Short"}
+,
+{
+  "name":"java.lang.StackTraceElement"}
+,
+{
+  "name":"java.lang.String",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true}
+,
+{
+  "name":"java.lang.StringBuffer"}
+,
+{
+  "name":"java.lang.StringBuilder"}
+,
+{
+  "name":"java.lang.System",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true}
+,
+{
+  "name":"java.lang.Thread"}
+,
+{
+  "name":"java.lang.Throwable",
+  "methods":[{"name":"getSuppressed","parameterTypes":[] }]}
+,
+{
+  "name":"java.lang.Void"}
+,
+{
+  "name":"java.lang.annotation.Annotation"}
+,
+{
+  "name":"java.lang.invoke.SerializedLambda"}
+,
+{
+  "name":"java.lang.reflect.AccessibleObject",
+  "fields":[{"name":"override"}],
+  "queriedMethods":[{"name":"getAnnotations","parameterTypes":[] }]}
+,
+{
+  "name":"java.lang.reflect.AnnotatedElement",
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.reflect.Constructor"}
+,
+{
+  "name":"java.lang.reflect.Executable",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.lang.reflect.Field"}
+,
+{
+  "name":"java.lang.reflect.GenericDeclaration",
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.reflect.Member",
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.lang.reflect.Method"}
+,
+{
+  "name":"java.lang.reflect.Type",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.math.BigDecimal"}
+,
+{
+  "name":"java.math.BigInteger"}
+,
+{
+  "name":"java.net.NetPermission"}
+,
+{
+  "name":"java.net.ServerSocket"}
+,
+{
+  "name":"java.net.Socket"}
+,
+{
+  "name":"java.net.SocketPermission"}
+,
+{
+  "name":"java.net.URI"}
+,
+{
+  "name":"java.net.URL"}
+,
+{
+  "name":"java.net.URLClassLoader",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.net.URLPermission",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String","java.lang.String"] }]}
+,
+{
+  "name":"java.nio.Buffer",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.nio.ByteBuffer",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.nio.charset.Charset",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.nio.file.Path"}
+,
+{
+  "name":"java.nio.file.Paths",
+  "methods":[{"name":"get","parameterTypes":["java.lang.String","java.lang.String[]"] }]}
+,
+{
+  "name":"java.security.AlgorithmParametersSpi"}
+,
+{
+  "name":"java.security.AllPermission"}
+,
+{
+  "name":"java.security.KeyStoreSpi"}
+,
+{
+  "name":"java.security.MessageDigestSpi"}
+,
+{
+  "name":"java.security.SecureClassLoader",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.security.SecureRandomParameters"}
+,
+{
+  "name":"java.security.SecurityPermission"}
+,
+{
+  "name":"java.security.interfaces.RSAPrivateKey"}
+,
+{
+  "name":"java.security.interfaces.RSAPublicKey"}
+,
+{
+  "name":"java.sql.Date"}
+,
+{
+  "name":"java.sql.Time"}
+,
+{
+  "name":"java.sql.Timestamp"}
+,
+{
+  "name":"java.text.AttributedCharacterIterator$Attribute"}
+,
+{
+  "name":"java.text.DecimalFormatSymbols"}
+,
+{
+  "name":"java.time.Clock"}
+,
+{
+  "name":"java.time.Clock$FixedClock"}
+,
+{
+  "name":"java.time.Clock$OffsetClock"}
+,
+{
+  "name":"java.time.Clock$SystemClock"}
+,
+{
+  "name":"java.time.Clock$TickClock"}
+,
+{
+  "name":"java.time.DayOfWeek"}
+,
+{
+  "name":"java.time.Duration"}
+,
+{
+  "name":"java.time.Instant"}
+,
+{
+  "name":"java.time.LocalDate"}
+,
+{
+  "name":"java.time.LocalDateTime"}
+,
+{
+  "name":"java.time.LocalTime"}
+,
+{
+  "name":"java.time.Month"}
+,
+{
+  "name":"java.time.MonthDay"}
+,
+{
+  "name":"java.time.OffsetDateTime"}
+,
+{
+  "name":"java.time.OffsetTime"}
+,
+{
+  "name":"java.time.Period"}
+,
+{
+  "name":"java.time.Ser"}
+,
+{
+  "name":"java.time.Year"}
+,
+{
+  "name":"java.time.YearMonth"}
+,
+{
+  "name":"java.time.ZoneId"}
+,
+{
+  "name":"java.time.ZoneOffset"}
+,
+{
+  "name":"java.time.ZoneRegion"}
+,
+{
+  "name":"java.time.ZonedDateTime"}
+,
+{
+  "name":"java.time.chrono.Chronology"}
+,
+{
+  "name":"java.time.chrono.HijrahChronology"}
+,
+{
+  "name":"java.time.chrono.HijrahDate"}
+,
+{
+  "name":"java.time.chrono.HijrahEra"}
+,
+{
+  "name":"java.time.chrono.IsoChronology"}
+,
+{
+  "name":"java.time.chrono.JapaneseChronology"}
+,
+{
+  "name":"java.time.chrono.JapaneseDate"}
+,
+{
+  "name":"java.time.chrono.JapaneseEra"}
+,
+{
+  "name":"java.time.chrono.MinguoChronology"}
+,
+{
+  "name":"java.time.chrono.MinguoDate"}
+,
+{
+  "name":"java.time.chrono.MinguoEra"}
+,
+{
+  "name":"java.time.chrono.Ser"}
+,
+{
+  "name":"java.time.chrono.ThaiBuddhistChronology"}
+,
+{
+  "name":"java.time.chrono.ThaiBuddhistDate"}
+,
+{
+  "name":"java.time.chrono.ThaiBuddhistEra"}
+,
+{
+  "name":"java.time.temporal.ChronoField"}
+,
+{
+  "name":"java.time.temporal.ChronoUnit"}
+,
+{
+  "name":"java.time.temporal.IsoFields$Field"}
+,
+{
+  "name":"java.time.temporal.IsoFields$Unit"}
+,
+{
+  "name":"java.time.temporal.JulianFields$Field"}
+,
+{
+  "name":"java.time.temporal.ValueRange"}
+,
+{
+  "name":"java.time.temporal.WeekFields"}
+,
+{
+  "name":"java.util.AbstractCollection",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.AbstractList",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.AbstractMap",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.util.AbstractSequentialList",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.ArrayList",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"java.util.BitSet"}
+,
+{
+  "name":"java.util.Calendar",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.util.Collection",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.Comparator",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.Currency"}
+,
+{
+  "name":"java.util.Date"}
+,
+{
+  "name":"java.util.Deque",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.Dictionary",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.util.EnumMap"}
+,
+{
+  "name":"java.util.EnumSet"}
+,
+{
+  "name":"java.util.Enumeration",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.GregorianCalendar"}
+,
+{
+  "name":"java.util.HashMap"}
+,
+{
+  "name":"java.util.HashSet"}
+,
+{
+  "name":"java.util.Hashtable"}
+,
+{
+  "name":"java.util.Iterator",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.LinkedHashMap"}
+,
+{
+  "name":"java.util.LinkedHashSet"}
+,
+{
+  "name":"java.util.LinkedList",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true}
+,
+{
+  "name":"java.util.List",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.Locale"}
+,
+{
+  "name":"java.util.Map",
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.Map$Entry"}
+,
+{
+  "name":"java.util.Optional"}
+,
+{
+  "name":"java.util.Properties",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"java.util.PropertyPermission"}
+,
+{
+  "name":"java.util.Queue",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.RandomAccess",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.ResourceBundle",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.util.Set",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.SortedMap",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.SortedSet",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.TimeZone",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"java.util.Timer"}
+,
+{
+  "name":"java.util.TimerTask"}
+,
+{
+  "name":"java.util.TreeMap"}
+,
+{
+  "name":"java.util.TreeSet"}
+,
+{
+  "name":"java.util.UUID"}
+,
+{
+  "name":"java.util.Vector"}
+,
+{
+  "name":"java.util.concurrent.BlockingQueue",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.concurrent.Callable",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.concurrent.ConcurrentHashMap"}
+,
+{
+  "name":"java.util.function.Consumer",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.function.Function",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.function.IntFunction",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.function.Predicate",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.function.UnaryOperator",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.regex.MatchResult",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"java.util.regex.Matcher"}
+,
+{
+  "name":"java.util.regex.Pattern"}
+,
+{
+  "name":"java_lang_String$trim",
+  "methods":[{"name":"<init>","parameterTypes":["org.codehaus.groovy.runtime.callsite.CallSite","groovy.lang.MetaClassImpl","groovy.lang.MetaMethod","java.lang.Class[]","java.lang.reflect.Constructor"] }]}
+,
+{
+  "name":"java_lang_System$currentTimeMillis",
+  "methods":[{"name":"<init>","parameterTypes":["org.codehaus.groovy.runtime.callsite.CallSite","groovy.lang.MetaClassImpl","groovy.lang.MetaMethod","java.lang.Class[]","java.lang.reflect.Constructor"] }]}
+,
+{
+  "name":"java_util_List$add",
+  "methods":[{"name":"<init>","parameterTypes":["org.codehaus.groovy.runtime.callsite.CallSite","groovy.lang.MetaClassImpl","groovy.lang.MetaMethod","java.lang.Class[]","java.lang.reflect.Constructor"] }]}
+,
+{
+  "name":"javax.activation.ActivationDataFlavor"}
+,
+{
+  "name":"javax.management.ObjectName"}
+,
+{
+  "name":"javax.security.auth.Subject"}
+,
+{
+  "name":"javax.swing.LookAndFeel"}
+,
+{
+  "name":"javax.xml.datatype.Duration"}
+,
+{
+  "name":"org.codehaus.groovy.antlr.GroovySourceAST",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.ast.ASTNode",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.ast.AnnotatedNode",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.ast.ClassNode",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[{"name":"getName","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.ast.CompileUnit",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[{"name":"getModules","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.ast.GroovyCodeVisitor",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.ast.ModuleNode",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[
+    {"name":"getClasses","parameterTypes":[] },
+    {"name":"getStatementBlock","parameterTypes":[] }
+  ]}
+,
+{
+  "name":"org.codehaus.groovy.ast.Variable",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.ast.builder.AstBuilder",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true}
+,
+{
+  "name":"org.codehaus.groovy.ast.builder.AstBuilderTransformation",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.ast.builder.AstStringCompiler",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[
+    {"name":"<init>","parameterTypes":[] },
+    {"name":"compile","parameterTypes":["java.lang.String","org.codehaus.groovy.control.CompilePhase","boolean"] }
+  ]}
+,
+{
+  "name":"org.codehaus.groovy.ast.builder.AstStringCompiler$_compile_closure1",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[{"name":"doCall","parameterTypes":["java.util.List","org.codehaus.groovy.ast.ModuleNode"] }]}
+,
+{
+  "name":"org.codehaus.groovy.ast.builder.AstStringCompiler$_compile_closure1$_closure2",
+  "queryAllDeclaredMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[{"name":"doCall","parameterTypes":["java.lang.Object"] }]}
+,
+{
+  "name":"org.codehaus.groovy.ast.expr.Expression",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.ast.stmt.BlockStatement",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true}
+,
+{
+  "name":"org.codehaus.groovy.ast.stmt.Statement",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.control.BytecodeProcessor",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.control.CompilationUnit",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true,
+  "methods":[{"name":"<init>","parameterTypes":["org.codehaus.groovy.control.CompilerConfiguration","java.security.CodeSource","groovy.lang.GroovyClassLoader"] }]}
+,
+{
+  "name":"org.codehaus.groovy.control.CompilationUnit$ClassgenCallback",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.control.CompilationUnit$GroovyClassOperation",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.control.CompilationUnit$PrimaryClassNodeOperation",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.control.CompilationUnit$ProgressCallback",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.control.CompilationUnit$SourceUnitOperation",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.control.CompilationUnit$addSource",
+  "methods":[{"name":"<init>","parameterTypes":["org.codehaus.groovy.runtime.callsite.CallSite","groovy.lang.MetaClassImpl","groovy.lang.MetaMethod","java.lang.Class[]","java.lang.reflect.Constructor"] }]}
+,
+{
+  "name":"org.codehaus.groovy.control.CompilationUnit$compile$0",
+  "methods":[{"name":"<init>","parameterTypes":["org.codehaus.groovy.runtime.callsite.CallSite","groovy.lang.MetaClassImpl","groovy.lang.MetaMethod","java.lang.Class[]","java.lang.reflect.Constructor"] }]}
+,
+{
+  "name":"org.codehaus.groovy.control.CompilePhase",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true}
+,
+{
+  "name":"org.codehaus.groovy.control.CompilePhase$getPhaseNumber",
+  "methods":[{"name":"<init>","parameterTypes":["org.codehaus.groovy.runtime.callsite.CallSite","groovy.lang.MetaClassImpl","groovy.lang.MetaMethod","java.lang.Class[]","java.lang.reflect.Constructor"] }]}
+,
+{
+  "name":"org.codehaus.groovy.control.CompilerConfiguration",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true,
+  "queryAllDeclaredConstructors":true}
+,
+{
+  "name":"org.codehaus.groovy.control.ParserPluginFactory",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.control.ProcessingUnit",
+  "allDeclaredFields":true,
+  "queryAllDeclaredMethods":true,
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.reflection.GroovyClassValuePreJava7",
+  "methods":[{"name":"<init>","parameterTypes":["org.codehaus.groovy.reflection.GroovyClassValue$ComputeValue"] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.DefaultGroovyMethodsSupport",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.runtime.DefaultGroovyStaticMethods",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.runtime.GeneratedClosure",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.runtime.callsite.CallSite",
+  "queryAllPublicMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgm$1044",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String","org.codehaus.groovy.reflection.CachedClass","java.lang.Class","java.lang.Class[]"] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgm$1121",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String","org.codehaus.groovy.reflection.CachedClass","java.lang.Class","java.lang.Class[]"] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgm$1123",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String","org.codehaus.groovy.reflection.CachedClass","java.lang.Class","java.lang.Class[]"] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgm$163",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String","org.codehaus.groovy.reflection.CachedClass","java.lang.Class","java.lang.Class[]"] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgm$29",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String","org.codehaus.groovy.reflection.CachedClass","java.lang.Class","java.lang.Class[]"] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgm$336",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String","org.codehaus.groovy.reflection.CachedClass","java.lang.Class","java.lang.Class[]"] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgm$339",
+  "methods":[{"name":"<init>","parameterTypes":["java.lang.String","org.codehaus.groovy.reflection.CachedClass","java.lang.Class","java.lang.Class[]"] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.NumberNumberDiv",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.NumberNumberMinus",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.NumberNumberMultiply",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.NumberNumberPlus",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.BooleanArrayGetAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.BooleanArrayPutAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.ByteArrayGetAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.ByteArrayPutAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.CharacterArrayGetAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.CharacterArrayPutAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.DoubleArrayGetAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.DoubleArrayPutAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.FloatArrayGetAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.FloatArrayPutAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.IntegerArrayGetAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.IntegerArrayPutAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.LongArrayGetAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.LongArrayPutAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.ObjectArrayGetAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.ObjectArrayPutAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.ShortArrayGetAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.runtime.dgmimpl.arrays.ShortArrayPutAtMetaMethod",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"org.codehaus.groovy.vmplugin.v5.PluginDefaultGroovyMethods",
+  "queryAllDeclaredMethods":true}
+,
+{
+  "name":"org.codehaus.groovy.vmplugin.v8.Java8",
+  "methods":[{"name":"<init>","parameterTypes":[] }]}
+,
+{
+  "name":"sun.misc.Unsafe",
+  "fields":[{"name":"theUnsafe"}],
+  "methods":[
+    {"name":"allocateInstance","parameterTypes":["java.lang.Class"] },
+    {"name":"objectFieldOffset","parameterTypes":["java.lang.reflect.Field"] },
+    {"name":"putBoolean","parameterTypes":["java.lang.Object","long","boolean"] }
+  ]}
+]
